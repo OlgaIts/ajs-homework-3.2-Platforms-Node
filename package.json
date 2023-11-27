@@ -1,0 +1,24 @@
+{
+  "name": "ajs-homework-3.2-platforms-node",
+  "version": "1.0.0",
+  "description": "",
+  "author": "OlgaIts",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlgaIts/ajs-homework-3.2-Platforms-Node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OlgaIts/ajs-homework-3.2-Platforms-Node/issues"
+  },
+  "homepage": "https://github.com/OlgaIts/ajs-homework-3.2-Platforms-Node#readme",
+  "dependencies": {
+    "@olgaits/ajs-homework-3-platforms": "^1.0.0"
+  }
+}
+
